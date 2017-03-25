@@ -13,6 +13,7 @@ p {
  font-family: 'Gochi Hand', cursive;
 }
 nav li{
-     display: inline-block;
-     color: #ff597b
+  display: inline-block;
+  color: #ff597b
+  font-family: 'handlee', cursive;
 }
