@@ -17,3 +17,9 @@ nav li{
   color: #ff597b
   font-family: 'handlee', cursive;
 }
+button {
+
+  background-color: #8900ff;
+  border-color: #6afffb;
+  color: #ffbebe;
+}
