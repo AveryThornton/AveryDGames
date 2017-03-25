@@ -14,8 +14,10 @@ p {
 }
 nav li{
   display: inline-block;
-  color: #ff597b
+  color: #ff597b;
   font-family: 'handlee', cursive;
+  border: 1px solid #05fb0a;
+  padding: 15px 30px;
 }
 button {
 
